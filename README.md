@@ -1,7 +1,7 @@
 # Ciao, sono Valerio! 👋
 
 ## Le mie statistiche di GitHub
-![Le mie statistiche](https://github-readme-stats.vercel.app/api?username=ValerioBotto&show_icons=true&theme=radical)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ValerioBotto&theme=radical)
 
 ## Linguaggi più utilizzati
-![I miei linguaggi](https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioBotto&layout=compact&theme=radical)
+![I miei linguaggi](https://github-readme-stats.vercel.app/api/top-langs/?username=ValerioBotto&layout=compact&theme=radical&cache_seconds=1800)
