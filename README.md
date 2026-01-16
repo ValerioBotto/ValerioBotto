@@ -1,4 +1,6 @@
-<p align="center"> Ciao, sono <strong> Valerio! </strong>👋 </p>
+<p align="center">
+  <h1 align="center">Ciao, sono <b>Valerio</b>! 👋</h1>
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ValerioBotto&show_icons=true&theme=radical" alt="Le mie statistiche" />
